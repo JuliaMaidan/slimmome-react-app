@@ -2,7 +2,7 @@
   "name": "slimmome-react-app",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://ibardych.github.io/slimmome-react-app/",
+  "homepage": "https://JuliaMaidan.github.io/slimmome-react-app/",
   "dependencies": {
     "@emotion/react": "^11.10.6",
     "@emotion/styled": "^11.10.6",
